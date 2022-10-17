@@ -1,8 +1,7 @@
-# mycode
-Tracking my code
 # mycode (Project Title)
+Tracking my code
 
-One Paragraph of your project description goes here. Describe what you're trying to do.
+Repo is demo training with Dell about Terraform 101
 What is the purpose of putting up this repo?
 
 ## Getting Started
